@@ -15,5 +15,5 @@
 ## EXAMPLE
 [`Website`](https://my-web.fxyycx.my.id)<br>
 
-```TAMPILAN WEBSITE```
+## TAMPILAN WEBSITE
 ![Layout](https://files.catbox.moe/wmonbr.jpg)
