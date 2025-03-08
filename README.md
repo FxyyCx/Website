@@ -13,7 +13,7 @@
 </p>
 
 ## EXAMPLE
-[`Rest Api`](https://my-web.fxyycx.my.id)<br>
+[`Website`](https://my-web.fxyycx.my.id)<br>
 
 ```TAMPILAN WEBSITE```
 ![Layout](https://files.catbox.moe/wmonbr.jpg)
