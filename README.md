@@ -1,5 +1,4 @@
-# FxyyCx
-p align="center">
+
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&multiline=false&lines=Welcome+To+My+Website" alt="">
 </p>
 <p align="center">
